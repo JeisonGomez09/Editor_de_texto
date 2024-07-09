@@ -24,7 +24,6 @@ body{
 }
 
 .titulo{
-    background: var(--color2);
     font-family: var(--fuente1);
     display: flex;
     justify-items: left;
