@@ -24,6 +24,7 @@ body{
 }
 
 .titulo{
+    color
     font-family: var(--fuente1);
     display: flex;
     justify-items: left;
@@ -151,6 +152,10 @@ footer{
 
     .vacio{
         text-align: center;
+    }
+
+    H1{
+        color: #f6f6f6;
     }
 
     p{
